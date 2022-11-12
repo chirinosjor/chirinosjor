@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Chirinos</h1>
-<h3 align="center">A technology lover from Venezuela</h3>
+<h3 align="center">A Front end developer from Venezuela</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirinosjor&label=Profile%20views&color=0e75b6&style=flat" alt="chirinosjor" /> </p>
 
@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on **Mercat**
 
-- 🌱 I’m currently learning **Amazon Web Services, Ruby on Rails, Javascript**
+- 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on **Cloud Projects**
+- 🤝 I’m looking for help with **Javascript**
 
-- 🤝 I’m looking for help with **AWS**
+- 👨‍💻 All of my projects are available at COMING SOON. . .
 
-- 👨‍💻 All of my projects are available at [https://chirinosjor.herokuapp.com/](https://chirinosjor.herokuapp.com/)
-
-- 💬 Ask me about **Amazon Web services, Ruby on Rails**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **chirinosjor@gmail.com**
 
